@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+</head>
+<body>
+  <div class="div">
+    <div class="div-2">
+      <div class="div-3">
+        <div class="div-4">
+          <div class="column">
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/a1f689caa1100bec23e2cae6188cbbebaec590a755767721ba23d8d8ab5dbedd?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+              class="img"
+            />
+          </div>
+          <div class="column-2">
+            <div class="div-5">
+              <div class="div-6">J.e.s</div>
+              <div class="div-7">Jubay Elementary School</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="div-8">
+        <div class="div-9">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/a04c74eacf64ef614745bf75697fb44dfaba3ed6f331763bc4567852bf29991d?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+            class="img-2"
+          />
+          <nav>
+            <div class="div-10">
+              <div class="div-11">Home</div>
+              <div class="div-12">About Us</div>
+              <div class="div-13">Events & Activities</div>
+            </div>
+          </nav>
+          <div class="div-14">
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/c2d85c4a9147df66954cd97a6f27ad84b10c2a33eeb5890aa384cbbbb2aefd44?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+              class="img-3"
+            />
+            <div class="div-15">ENROLL NOW!</div>
+          </div>
+        </div>
+        <div class="div-16">
+          <img
+            loading="lazy"
+            srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/de81143c92776e8119c3574d53dc2c4b5ac868948034605e808137ee2d122c10?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+            class="img-4"
+          />
+          <div class="div-17"></div>
+        </div>
+        <div class="div-18">
+          <div class="div-19">
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/0bc467f0dcfe4c722c19df13f547c922e7417919012e50faa244c3e1082c7e20?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+              class="img-5"
+            />
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/164eb1f076d4d917e249676e354c9cc77beed750384ce838a18f57ed53719bc9?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+              class="img-6"
+            />
+          </div>
+          <div class="div-20">
+            <span
+              style="
+                font-family: Secular One, -apple-system, Roboto, Helvetica,
+                  sans-serif;
+                font-size: 40px;
+              "
+            >
+              WE offer:
+            </span>
+            <br />
+            <span
+              style="
+                font-family: Saira, sans-serif;
+              "
+            >
+              kinder
+            </span>
+            <br />
+            <span
+              style="
+                font-family: Saira, sans-serif;
+              "
+            >
+              grades 1-6
+            </span>
+            <br />
+            <span
+              style="
+                font-family: Saira, sans-serif;
+              "
+            >
+              junior hs 7-10
+            </span>
+          </div>
+          <div class="div-21">
+            fun and safe learning
+            <br />
+            environment.
+            <br />
+            <br />
+            <br />
+            outdoor and within
+            <br />
+            school activities.
+            <br />
+            sports and
+            <br />
+            extracurricular activities
+          </div>
+          <img
+            loading="lazy"
+            srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/8157322364cad9bbd8b791ad980168f22f345e53fed73aecc268870e23b9dc0b?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+            class="img-7"
+          />
+        </div>
+        <div class="div-22">
+          <div class="div-23">CONTACT US!</div>
+          <div class="div-24">Want to know more about JES?</div>
+          <div class="div-25">
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/aaac8fd41a0272cca082b7e14ebe24e22fd865e2d4289e65e27d41c14d79f05f?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+              class="img-8"
+            />
+            <div class="div-26">
+              https://www.facebook.com/jubay.elemschool?mibextid=ZbWKwL
+            </div>
+            <img
+              loading="lazy"
+              srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/789de068b83590ea194dce147349c69135d1a7f8cd9fd27567a1da8b2d794bba?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+              class="img-9"
+            />
+            <div class="div-27">3265434</div>
+          </div>
+          <div class="div-28">11942@deped.gov.ph</div>
+          <div class="div-29">
+            Purok Rose , Sitio San Antonio, Jubay, Liloan Cebu 6002
+          </div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/79146d41d0bde7f9bf420df0cadb0326d1301fcc7ff97ab605f2364533cae9ac?apiKey=46cc6aa3746c473da4013b6bbc2f46fb&"
+      class="img-10"
+    />
+  </div>
+  <style>
+    .div {
+      background-color: var(--WHITE, #fff);
+      display: flex;
+      padding-top: 50px;
+      flex-direction: column;
+    }
+    .div-2 {
+      align-self: center;
+      z-index: 10;
+      display: flex;
+      margin-top: 22px;
+      width: 100%;
+      max-width: 1241px;
+      flex-direction: column;
+    }
+    @media (max-width: 991px) {
+      .div-2 {
+        max-width: 100%;
+      }
+    }
+    .div-3 {
+    }
+    @media (max-width: 991px) {
+      .div-3 {
+        max-width: 100%;
+      }
+    }
+    .div-4 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-4 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 32%;
+      margin-left: 0px;
+    }
+    @media (max-width: 991px) {
+      .column {
+        width: 100%;
+      }
+    }
+    .img {
+      aspect-ratio: 1.56;
+      object-fit: auto;
+      object-position: center;
+      width: 100%;
+      flex-grow: 1;
+    }
+    .column-2 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 68%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-2 {
+        width: 100%;
+      }
+    }
+    .div-5 {
+      display: flex;
+      margin-top: 46px;
+      flex-direction: column;
+      text-align: center;
+      text-transform: uppercase;
+      padding: 0 20px;
+    }
+    @media (max-width: 991px) {
+      .div-5 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-6 {
+      color: var(--Royal-Blue, #00084f);
+      font: 400 125px Sedan SC, serif;
+    }
+    @media (max-width: 991px) {
+      .div-6 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+    }
+    .div-7 {
+      color: var(--RoyalBlue, #030b50);
+      leading-trim: both;
+      text-edge: cap;
+      margin-top: 16px;
+      font: 700 45px Saira SemiCondensed, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-7 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+    }
+    .div-8 {
+      background-color: var(--blue, #05128c);
+      display: flex;
+      margin-top: 20px;
+      padding-bottom: 50px;
+      flex-direction: column;
+    }
+    @media (max-width: 991px) {
+      .div-8 {
+        max-width: 100%;
+      }
+    }
+    .div-9 {
+      display: flex;
+      flex-direction: column;
+      fill: var(--Blue, #001767);
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      min-height: 627px;
+      width: 100%;
+      padding-top: 16px;
+      text-align: center;
+    }
+    @media (max-width: 991px) {
+      .div-9 {
+        max-width: 100%;
+      }
+    }
+    .img-2 {
+      position: absolute;
+      inset: 0;
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+    .div-10 {
+      position: relative;
+      align-self: center;
+      display: flex;
+      width: 100%;
+      max-width: 1037px;
+      align-items: start;
+      justify-content: space-between;
+      gap: 20px;
+      font-size: 40px;
+      color: var(--WHITE, #fff);
+      font-weight: 700;
+      padding: 0 20px;
+    }
+    @media (max-width: 991px) {
+      .div-10 {
+        max-width: 100%;
+        flex-wrap: wrap;
+      }
+    }
+    .div-11 {
+      font-family: Istok Web, sans-serif;
+      margin-top: 12px;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-12 {
+      font-family: Istok Web, sans-serif;
+      margin-top: 11px;
+      flex-grow: 1;
+      flex-basis: auto;
+      color: #fff;
+      transition: box-shadow 0.3s, color 0.3s;
+    }
+    .div-13 {
+      font-family: Istok Web, sans-serif;
+      flex-grow: 1;
+      flex-basis: auto;
+      margin-top: 10px;
+      position: relative;
+      color: #fff;
+      transition: box-shadow 0.3s, color 0.3s;
+    }
+    .highlight{
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      color: #0000ff;
+    }
+    .div-14 {
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      fill: url(<path-to-image>),
+        lightgray 0px -444.152px / 100% 194.745% no-repeat;
+      overflow: hidden;
+      display: flex;
+      min-height: 527px;
+      margin-top: 43px;
+      width: 100%;
+      justify-content: center;
+      align-items: end;
+      font-size: 45px;
+      color: var(--RoyalBlue, #030b50);
+      font-weight: 400;
+      white-space: nowrap;
+      text-transform: uppercase;
+      padding: 50px 60px;
+    }
+    @media (max-width: 991px) {
+      .div-14 {
+        max-width: 100%;
+        margin-top: 40px;
+        font-size: 40px;
+        white-space: initial;
+        padding: 0 20px;
+      }
+    }
+    .img-3 {
+      position: absolute;
+      inset: 0;
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+    .div-15 {
+      position: relative;
+      font-family: Sigmar One, sans-serif;
+      justify-content: center;
+      border-radius: 100px;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset,
+        0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+      background-color: rgba(255, 255, 255, 0.75);
+      margin: 312px 162px 26px 0;
+      padding: 8px 10px;
+    }
+    @media (max-width: 991px) {
+      .div-15 {
+        font-size: 40px;
+        white-space: initial;
+        margin: 40px 10px 0 0;
+      }
+    }
+    .div-16 {
+      align-self: center;
+      z-index: 10;
+      display: flex;
+      margin-top: -25px;
+      width: 310px;
+      max-width: 100%;
+      padding-right: 8px;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+    }
+    .img-4 {
+      aspect-ratio: 1.41;
+      object-fit: auto;
+      object-position: center;
+      width: 100%;
+      fill: url(<path-to-image>),
+        lightgray -40.779px -48.297px / 116.512% 142.727% no-repeat;
+      align-self: end;
+      margin-top: 130px;
+      margin-left: 3px;
+      margin-bottom: 50px;
+      flex-grow: 1;
+      flex-basis: 0%;
+    }
+    @media (max-width: 991px) {
+      .img-4 {
+        margin-top: 40px;
+      }
+    }
+    .div-17 {
+      border-radius: 100px;
+      background-color: rgba(255, 255, 255, 1);
+      align-self: start;
+      width: 20px;
+      height: 261px;
+    }
+    @media (max-width: 991px) {
+      .div-17 {
+        display: none;
+      }
+    }
+    .div-18 {
+      z-index: 10;
+      display: flex;
+      margin-top: -348px;
+      flex-direction: column;
+      padding: 0 46px 36px;
+    }
+    @media (max-width: 991px) {
+      .div-18 {
+        max-width: 100%;
+        margin-top: -200px;
+        padding: 0 20px;
+      }
+    }
+    .div-19 {
+      display: flex;
+      width: 321px;
+      max-width: 100%;
+      flex-direction: column;
+    }
+    .img-5 {
+      aspect-ratio: 1.59;
+      object-fit: auto;
+      object-position: center;
+      width: 100%;
+      fill: url(<path-to-image>),
+        lightgray -40.779px -43.533px / 116.512% 142.727% no-repeat;
+    }
+    .img-6 {
+      aspect-ratio: 1.56;
+      object-fit: auto;
+      object-position: center;
+      width: 100%;
+      fill: url(<path-to-image>),
+        lightgray -40.779px -43.966px / 116.512% 142.727% no-repeat;
+      margin-top: 89px;
+    }
+    @media (max-width: 991px) {
+      .img-6 {
+        margin-top: 40px;
+      }
+    }
+    .div-20 {
+      color: var(--WHITE, #fff);
+      text-transform: uppercase;
+      align-self: end;
+      z-index: 10;
+      width: 255px;
+      margin: -433px 38px 0 0;
+      font: 400 35px SeoulNamsan CM, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-20 {
+        margin: -200px 10px 0 0;
+      }
+    }
+    .div-21 {
+      color: var(--WHITE, #fff);
+      text-transform: uppercase;
+      align-self: end;
+      z-index: 10;
+      margin-top: 84px;
+      font: 400 25px Ruluko, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-21 {
+        margin-top: 40px;
+      }
+    }
+    .img-7 {
+      aspect-ratio: 1.72;
+      object-fit: auto;
+      object-position: center;
+      width: 314px;
+      fill: url(<path-to-image>),
+        lightgray -40.779px -39.201px / 116.512% 142.727% no-repeat;
+      align-self: center;
+      margin-top: -218px;
+      max-width: 100%;
+    }
+    @media (max-width: 991px) {
+      .img-7 {
+        margin-top: -200px;
+      }
+
+
+    }
+    .div-22 {
+      align-self: center;
+      display: flex;
+      width: 100%;
+      max-width: 1120px;
+      flex-direction: column;
+      align-items: center;
+      font-size: 25px;
+      color: var(--WHITE, #fff);
+      margin: 97px 0 29px;
+      padding: 0 20px;
+    }
+    @media (max-width: 991px) {
+      .div-22 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-23 {
+      text-transform: uppercase;
+      white-space: nowrap;
+      font: 400 40px Rubik One, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-23 {
+        white-space: initial;
+      }
+    }
+    .div-24 {
+      white-space: nowrap;
+      font: 700 20px Gayathri, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-24 {
+        white-space: initial;
+      }
+    }
+    .div-25 {
+      align-items: center;
+      align-self: stretch;
+      display: flex;
+      margin-top: 22px;
+      gap: 8px;
+      white-space: nowrap;
+    }
+    @media (max-width: 991px) {
+      .div-25 {
+        max-width: 100%;
+        flex-wrap: wrap;
+        white-space: initial;
+      }
+    }
+    .img-8 {
+      aspect-ratio: 2.44;
+      object-fit: auto;
+      object-position: center;
+      width: 148px;
+      align-self: stretch;
+      max-width: 100%;
+    }
+    .div-26 {
+      font-family: Inter, sans-serif;
+      font-weight: 400;
+      align-self: stretch;
+      flex-grow: 1;
+      flex-basis: auto;
+      margin: auto 0;
+    }
+    @media (max-width: 991px) {
+      .div-26 {
+        max-width: 100%;
+      }
+    }
+    .img-9 {
+      aspect-ratio: 1;
+      object-fit: auto;
+      object-position: center;
+      width: 57px;
+      align-self: stretch;
+      margin: auto 0;
+    }
+    .div-27 {
+      font-family: Istok Web, sans-serif;
+      font-weight: 700;
+      align-self: stretch;
+      margin: auto 0;
+    }
+    .div-28 {
+      font-family: Istok Web, sans-serif;
+      font-weight: 700;
+      margin-top: 18px;
+    }
+    .div-29 {
+      font-family: Istok Web, sans-serif;
+      font-weight: 700;
+      margin-top: 24px;
+    }
+    @media (max-width: 991px) {
+      .div-29 {
+        max-width: 100%;
+      }
+    }
+    .img-10 {
+      aspect-ratio: 3.13;
+      object-fit: auto;
+      object-position: center;
+      width: 100%;
+      fill: var(--Blue, #001767);
+      margin-top: -482px;
+    }
+    @media (max-width: 991px) {
+      .img-10 {
+        max-width: 100%;
+        margin-top: -200px;
+      }
+    }
+  </style>
+
+
+<script>
+  const div11 = document.querySelector('.div-11');
+  const div12 = document.querySelector('.div-12');
+  const div13 = document.querySelector('.div-13');
+  const contentContainer = document.querySelector('.content-container');
+
+
+  div11.addEventListener('mouseenter', () => {
+    div11.style.backgroundColor = '#fff';
+    div11.style.transition = 'background-color 0.3s';
+    div11.style.color = "#001767";
+  });
+
+
+  div11.addEventListener('mouseleave', () => {
+    div11.style.backgroundColor = 'transparent';
+    div11.style.color = 'white';
+  });
+
+
+  div12.addEventListener('mouseenter', () => {
+    div12.style.backgroundColor = '#fff';
+    div12.style.transition = 'background-color 0.3s';
+    div12.style.color = "#001767";
+  });
+
+
+  div12.addEventListener('mouseleave', () => {
+    div12.style.backgroundColor = 'transparent';
+    div12.style.color = 'white';
+  });
+
+
+  div13.addEventListener('mouseenter', () => {
+    div13.style.backgroundColor = '#fff';
+    div13.style.transition = 'background-color 0.3s';
+    div13.style.color = "#001767";
+  });
+
+
+  div13.addEventListener('mouseleave', () => {
+    div13.style.backgroundColor = 'transparent';
+    div13.style.color = 'white';
+  });
+
+
+  div11.addEventListener('click', () => {
+    window.location.href = 'C:/Users/sirfe/OneDrive/Documents/School website/index.html';
+  });
+
+
+  div12.addEventListener('click', () => {
+    window.location.href = 'C:/Users/sirfe/OneDrive/Documents/School website/index2.html';
+  });
+
+
+  div13.addEventListener('click', () => {
+    window.location.href = 'path/to/contact.html';
+  });
+</script>
+ 
+</body>
+</html>
+   
+
